@@ -1,0 +1,54 @@
+body {
+  background-image: url(img/dark.png);
+}
+.landing-video-container {
+  position: relative;
+  left: 15%;
+  margin-bottom: 8%;
+  width: 1000px
+}
+.logoflota {
+    left: 50%;
+    margin: 0 0 0 -115px;
+    max-width: 230px;
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+}
+.bodyk{
+  margin: 5% 10% 5% 10%;
+}
+h1 {
+  margin: 10% 0 5% 0;
+  letter-spacing: 60px;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 3rem;
+}
+.card{
+  background-color: oldlace;
+}
+.row {
+  margin: 5% 20% 5% 20%;
+}
+.col-6{
+  margin: 0 10%  0 10%
+}
+.imgi{
+  margin-left: 3%
+}
+.ima{
+  max-width: 10%;
+}
+.backss{
+  background-color: oldlace;
+}
+.nextdate{
+  color: whitesmoke;
+}
+.table{
+  margin-top: 10%
+}
+i {
+  padding-right: 15px;
+}
