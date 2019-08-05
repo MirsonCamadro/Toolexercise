@@ -3,9 +3,8 @@ body {
 }
 .landing-video-container {
   position: relative;
-  left: 15%;
-  margin-bottom: 8%;
-  width: 1000px
+  width: 1200px;
+  margin: 0 auto
 }
 .logoflota {
     left: 50%;
@@ -51,4 +50,7 @@ h1 {
 }
 i {
   padding-right: 15px;
+}
+.celda{
+  margin: 5%
 }
